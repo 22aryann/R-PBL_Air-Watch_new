@@ -1,0 +1,19 @@
+R >= 4.2 (the code uses the |> pipe)
+
+Packages needed now (Phase 1-2):
+shiny
+bslib
+dplyr
+tidyr
+readr
+readxl
+lubridate
+plotly
+DT
+tibble
+
+Packages added in later phases:
+ggplot2
+forecast
+randomForest
+rmarkdown   (only if PDF export is used)
